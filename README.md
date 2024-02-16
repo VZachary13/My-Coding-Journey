@@ -1,5 +1,5 @@
 # My-Coding-Journey
-To be used as a portfolio, progress checker, inspiration and self-plagiarism source
+To be used as a progress checker, inspiration, and self-plagiarism source
 
 Projects may and most likely will be written in various languages and some projects are assignments from classes I have taken.
 
